@@ -1,4 +1,4 @@
-/*QUE-16) -> 
+/*QUE-16) ----> 
 
 Create a function which accepts an array nums and a number target as arguements. This function returns 
  indices of that two elements  which added up to target
