@@ -1,4 +1,4 @@
-/* que-4)-->>
+/* que-4)---->>
 Write a function createCounter. It should accept an initial integer init. It should return an object with three 
 functions.
 
